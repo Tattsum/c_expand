@@ -1,0 +1,33 @@
+1. Department of Mechatronics
+
+Be it for industrial plant, robots or communications networks operated
+by corporations, governmental agencies or the like, huge computer
+systems combining numerous different functions are an essential
+element of the infrastructure of our highly advanced, modern
+information society. Focusing on control systems and communication
+information systems, in our Department students learn the practical
+aspects of technology as it is applied to the planning, design,
+development, manufacturing and operation of all aspects of monozukuri.
+
+2. Department of Software Engineering
+
+Based on the tenets of software engineering and computing science,
+the Department of Software Engineering provides students with
+a comprehensive grounding in software development and information
+processing. As society becomes increasingly dependent on various
+information systems, the Department looks to foster advanced engineers
+and leaders in the ICT(Information Communication Technology)market
+equipped with the necessary practical and applied skills to support
+information society in the future.
+
+3. Department of Systems and Mathematical Science
+
+The Department of Systems and Mathematical Science aims to cultivate information
+analysis. In order to serve the needs of the business, political, and
+welfare communications, courses allow students to develop their capacity
+to produce new models and optimize existing models that deal with such
+diverse systems as marketing data analysis and intelligent transport
+systems, while also allowing them to develop their ability to analyze
+and process the vast amount of information available in our
+technologically advanced information society.
+
